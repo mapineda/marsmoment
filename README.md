@@ -12,4 +12,4 @@ MarsMoment.js is a new project, still in infancy.
 
 ## License
 
-Moment.js is freely distributable under the terms of the [MIT license](LICENSE)
+MarsMoment.js is freely distributable under the terms of the [MIT license](LICENSE)
